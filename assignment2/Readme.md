@@ -25,3 +25,6 @@ A**: Kalo UX Designer biasanya ada buku yang sangat direkomendasikan yaitu *"Don
 
 **Q: Sebagai seorang UI/UX desainer, seberapa pentingkah user feedback?<br>
 A**: *User feedback* itu penting banget. Bicara tentang *research* itu ada 3 premis, *validation, identification,* dan *blind spot*. *Validation* itu tentang suatu yang sudah lama, kita validasi, itu berhasil atau tidak. Untuk *identification* ya kita mengidentifikasi hal ini berhasil atau tidak. Kalo blind spot itu adalah hal yang tidak kita ketahui sama sekali. Pemecahan *blind spot* ini biasa ditemukan oleh user. Oleh karena itu, user feedback sangat diperlukan agar tau hal - hal yang tidak terlihat atau hal yang tidak disadari oleh kita sebagai designer.
+
+### link to our interview ###
+[youtube]()
