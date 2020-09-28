@@ -30,7 +30,7 @@
 
 *TASK 2 REPORT* : [Interview Report](https://github.com/GeminorumB/HCI-task/tree/master/assignment2)
 
-Interview Record : [Youtube]()
+Interview Record : [Youtube](https://www.youtube.com/watch?v=APQJQc1q9KA&feature=youtu.be)
 
 
 ### Contributors ###
@@ -41,3 +41,6 @@ Interview Record : [Youtube]()
 - [hafizchever](https://github.com/hafizchever)
 * **Muhammad Ridho RIzqillah** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
 - [Renespeare](https://github.com/Renespeare)
+
+### Check our landing page ##
+[Our Github.io page](https://hafizchever.github.io/HCI_caseUI/laporan/case.html)
