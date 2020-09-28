@@ -39,7 +39,7 @@ Interview Record : [Youtube](https://www.youtube.com/watch?v=APQJQc1q9KA&feature
 - [GeminorumB](https://github.com/GeminorumB)
 * **Muhammad Hafiz Hisbullah** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
 - [hafizchever](https://github.com/hafizchever)
-* **Muhammad Ridho RIzqillah** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
+* **Muhammad Ridho Rizqillah** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
 - [Renespeare](https://github.com/Renespeare)
 
 ### Check our landing page ##
