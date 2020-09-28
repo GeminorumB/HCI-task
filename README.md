@@ -4,8 +4,8 @@
 ## GROUP B ##
 
   1. Muhammad Daffa Haryadi   (1313619034)
-  2. Muhammad Hafiz Hisbullah (1313619033)
-  3. Muhammad Ridho Rizqillah (1313619019)
+  2. Muhammad Hafiz Hisbullah (1313619019)
+  3. Muhammad Ridho Rizqillah (1313619033)
 
 ## This is Our team ##
 <img src='profile/profile.jpg'>
