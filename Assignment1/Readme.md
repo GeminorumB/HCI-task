@@ -49,7 +49,10 @@ Setelah melihat Design awal software tersebut kami memutuskan untuk memperbaiki 
 - [x] overview/snapshot dibuat lebih mudah untuk dilihat
 
 ### UI MOCKUP TO IMPROVE THE DESIGN ###
+**First UI Improvement**
 <img src = 'Design/after_rebuild(1).jpg'>
+
+**Second UI Improvement**
 <img src = 'Design/after_rebuild(2).jpg'>
 
 ## Daftar Pustaka ##
