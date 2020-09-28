@@ -26,7 +26,7 @@
 
 ### Interviewee ###
 -  Name       : Edwin Riwaldo
--  Occupation : UX Designer at [Flip.id] (https://flip.id/)
+-  Occupation : UX Designer at [Flip.id](https://flip.id/)
 
 *TASK 2 REPORT* : [Interview Report](https://github.com/GeminorumB/HCI-task/tree/master/assignment2)
 
