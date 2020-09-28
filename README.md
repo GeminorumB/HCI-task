@@ -37,7 +37,7 @@ Interview Record : [Youtube](https://www.youtube.com/watch?v=APQJQc1q9KA&feature
 
 * **Muhammad Daffa Haryadi** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
 - [GeminorumB](https://github.com/GeminorumB)
-* **Muhammad hAFIZ Hisbullah** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
+* **Muhammad Hafiz Hisbullah** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
 - [hafizchever](https://github.com/hafizchever)
 * **Muhammad Ridho RIzqillah** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
 - [Renespeare](https://github.com/Renespeare)
