@@ -22,7 +22,7 @@
 
 ## Second Assignment ##
 
-- [x] interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio
+- interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio
 
 ### Interviewee ###
 -  Name       : Edwin Riwaldo
