@@ -29,7 +29,7 @@ A**: Kalo UX Designer biasanya ada buku yang sangat direkomendasikan yaitu *"Don
 A**: *User feedback* itu penting banget. Bicara tentang *research* itu ada 3 premis, *validation, identification,* dan *blind spot*. *Validation* itu tentang suatu yang sudah lama, kita validasi, itu berhasil atau tidak. Untuk *identification* ya kita mengidentifikasi hal ini berhasil atau tidak. Kalo blind spot itu adalah hal yang tidak kita ketahui sama sekali. Pemecahan *blind spot* ini biasa ditemukan oleh user. Oleh karena itu, user feedback sangat diperlukan agar tau hal - hal yang tidak terlihat atau hal yang tidak disadari oleh kita sebagai designer.
 
 ## Contoh Mockup project narasumber ##
-<img src =''>
+<img src ='mockup/mockup1.png'>
 
 ### link to our interview ###
 [youtube](https://www.youtube.com/watch?v=APQJQc1q9KA&feature=youtu.be)
