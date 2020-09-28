@@ -30,7 +30,7 @@ A**: *User feedback* itu penting banget. Bicara tentang *research* itu ada 3 pre
 
 ## Contoh Mockup project narasumber ##
 <img src ='mockup/mockup1.png'>
-*contoh mockup lainnya dapat dilihat di akun dribble narasumber* [*dribble*](https://dribbble.com/edriwaldo)
+*contoh mockup lainnya dapat dilihat di akun dribble narasumber* [dribble](https://dribbble.com/edriwaldo)
 
 ### link to our interview ###
 [youtube](https://www.youtube.com/watch?v=APQJQc1q9KA&feature=youtu.be)
