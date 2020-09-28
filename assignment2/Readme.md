@@ -32,5 +32,5 @@ A**: *User feedback* itu penting banget. Bicara tentang *research* itu ada 3 pre
 <img src ='mockup/mockup1.png'> <br>
 *contoh mockup lainnya dapat dilihat di akun dribble narasumber* [dribble](https://dribbble.com/edriwaldo) <br>
 
-### link to our interview ###
+### link to our interview Record ###
 [youtube](https://www.youtube.com/watch?v=APQJQc1q9KA&feature=youtu.be)
