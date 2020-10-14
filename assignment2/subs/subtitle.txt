@@ -1,0 +1,322 @@
+0:00:06.000,0:00:11.000
+Bismillahirahmanirahim, Assalamualaikum Warahmatullahi Wabarakatuh
+
+0:00:11.200,0:00:13.100
+Waalaikumsalam Warahmatullahi Wabarakatuh
+
+0:00:14.900,0:00:16.280
+My name is muhammad daffa haryadi
+
+0:00:16.300,0:00:19.200
+and these are my friends,
+
+0:00:19.400,0:00:23.000
+Hafiz and Muhammad Ridho Rizqillah
+
+0:00:23.200,0:00:30.190
+so I want to explain, as explained yesterday by ridho
+
+0:00:30.200,0:00:38.190
+will make a mockup of the design of the Mas Dadang application
+
+0:00:38.200,0:00:41.000
+like design improvements
+
+0:00:41.200,0:00:50.100
+I think we did a little improvement on the design
+
+0:00:50.900,0:00:57.280
+after that we will show it to you
+
+0:00:57.900,0:01:00.200
+I guess if you think it's good or not
+
+0:01:00.400,0:01:04.000
+Can you show me pis? the design
+
+0:01:04.400,0:01:06.000
+from the design straight away?
+
+0:01:07.400,0:01:09.000
+Share screen permission, guys
+
+0:01:09.400,0:01:11.000
+after showing the design
+
+0:01:11.400,0:01:18.000
+Mas Dadang doesn't have any suggestions for the design
+
+0:01:18.600,0:01:20.000
+this is the mas dadang application
+
+0:01:20.800,0:01:25.000
+so bro dadang who knows how the application works
+
+0:01:25.200,0:01:30.000
+please wait a moment guys
+
+0:01:38.500,0:01:40.000
+does it look guys?
+
+0:01:43.790,0:01:47.000
+do you use the design?
+
+0:01:47.800,0:01:49.000
+adobe xd/
+the design use fingmu ya?
+
+0:01:49.230,0:01:54.000
+like a special application for design
+
+0:01:55.500,0:01:57.000
+that's fingmu yes?
+
+0:01:57.790,0:02:02.000
+wkwkwk figma sir, figma
+
+0:02:05.800,0:02:16.000
+I still use Figma, hafiz use xd mas.
+
+0:02:21.230,0:02:30.000
+So it starts from here,
+looks like the original design
+
+0:02:30.800,0:02:32.110
+maybe here nothing changes
+
+0:02:32.230,0:02:34.100
+later maybe add the font under it
+
+0:02:35.230,0:02:37.150
+added the title bisnisternak.id
+
+0:02:37.400,0:02:42.550
+continue, now this is the initial appearance, mas
+
+0:02:43.000,0:02:50.550
+we were inspired by the gojek
+
+0:02:51.000,0:02:56.250
+if we look at the gojek, there is a main menu
+or if we look at grab, ther is main menu too
+
+0:02:57.000,0:03:05.000
+below are several topics such as discounts, gofood, like this.
+
+0:03:05.300,0:03:07.200
+there are still partner testimonials here
+
+0:03:07.900,0:03:09.005
+here is a contact person
+
+0:03:09.900,0:03:14.205
+and here there is a go to top button sis
+
+0:03:14.500,0:03:19.008
+above there is a home button, if we click it will return to the home page
+
+0:03:19.200,0:03:20.230
+well this is the landing page
+
+0:03:20.500,0:03:23.000
+then, there is the breeder class.
+
+0:03:24.500,0:03:37.200
+the contents are actually the same as the default application, there is a class article
+
+0:03:38.500,0:03:40.200
+later maybe just adjust the contents like what
+
+0:05:14.100,0:05:22.000
+next, in this Kelas Peternak, the article will be replaced later
+
+0:05:23.100,0:05:24.000
+then proceed to Informasi Ternak
+
+0:05:25.100,0:05:27.400
+here there are categories there are
+
+0:05:27.500,0:05:31.000
+information, technology, feed, and so on
+
+0:05:31.500,0:05:39.000
+then we will make the article like this when clicked 
+the article will appear
+
+0:05:43.000,0:05:43.900
+Okay
+
+0:05:44.001,0:05:49.900
+I followed from the initial design, not much different
+
+0:05:50.901,0:05:52.500
+then this information when clicked will appear
+
+0:05:59.901,0:06:01.200
+later just add the contents
+
+0:06:08.901,0:06:17.200
+after that go to the Titip Ternak,
+coincidence i see there is no content here
+
+0:09:32.901,0:09:42.150
+okay, let's go to the cattle market, there are only 2 articles here
+
+0:09:42.601,0:09:46.000
+Do you have permission for articles like this, bro?
+
+0:09:46.443,0:09:48.155
+ It's just marketplace
+
+0:10:05.646,0:10:08.091
+ Our works already done like this
+
+0:10:11.509,0:10:17.408
+For information ternak page, we make it like a community
+
+0:10:17.408,0:10:24.000
+and then we can login, after that we can post article
+
+0:10:26.934,0:10:28.934
+we can comment too
+
+0:10:34.013,0:10:36.013
+like the app called Kaskus
+
+0:10:37.638,0:10:41.627
+all this time, the forum goes to WhatsApp grup or Telegram grup
+
+0:10:44.385,0:10:49.604
+so in the marketplace, who posted the sales about ternak?
+
+0:10:50.109,0:10:55.328
+still admin who posted it, the seller tell admin and then admin will post it.
+
+0:10:58.295,0:11:07.072
+In the beginning, we want to looks like Tokopedia. So, the seller just post their product by themself
+
+0:11:16.789,0:11:24.546
+it's a good concept btw, in the first time we want like it too. But we just an amateur.
+
+0:11:24.546,0:11:27.794
+so the product must admin to posted.
+
+0:11:30.200,0:11:33.692
+In my perspective it's good enough
+
+0:11:41.398,0:11:50.437
+Our redesign just an improve about that app
+
+0:11:51.614,0:12:10.178
+we focused in market and classes, cause we think that's two things is important for this app
+
+0:12:10.415,0:12:15.372
+so, that's why we make the features more earlier than others page.
+
+0:12:18.375,0:12:24.745
+If you know, the more we need in titip ternak.
+
+0:12:25.288,0:12:37.478
+Classes is for finding interest and community and the marketplace is for help others to sell their products online.
+
+0:12:37.936,0:12:41.271
+but in titip ternak more profitable
+
+0:12:49.015,0:12:56.877
+We need many steps to get license for titip ternak.
+
+0:12:57.193,0:13:03.485
+after we get the license, we will focused on titip ternak.
+
+0:13:06.200,0:13:19.137
+maybe like this, there are a concept for livestock 10000 catfish. With 30 million rupiah investation.
+
+0:13:19.137,0:13:27.461
+it will get like a 50 million profit for doing that.
+
+0:13:44.022,0:13:46.493
+but there is many problem, so titip ternak not already proceed
+
+0:13:46.494,0:13:50.718
+Cause of that, we focused on classes and marketplace
+
+0:13:51.907,0:13:56.812
+btw, how about our design after all?
+
+0:13:59.314,0:14:15.470
+but before that, we redesign this app by following the default app. And find the things need to improve
+
+0:14:25.815,0:14:31.086
+like this about list of improvement I made.
+
+0:14:32.575,0:14:43.917
+the home button is far at down, I think it's good to redesign this home button
+
+0:14:57.430,0:15:14.895
+We get the lecture about human computer interaction, it's teach us how to provide good interface to the user.
+
+0:15:15.724,0:15:23.743
+From this app, we find something to improve, just like home button.
+
+0:15:24.529,0:15:41.104
+in our opinion, the home button must be placed in dropdown, or in the top bar.
+
+0:16:17.843,0:16:24.632
+If want to share article, we add share button too
+
+0:16:26.839,0:16:40.928
+in footer section, there are two numbers duplicated. We think it's not necessary.
+
+0:16:40.928,0:16:43.966
+So we redesign and looks like this
+
+0:16:47.849,0:16:50.791
+After all, how about our redesign about this app?
+
+0:16:53.334,0:16:55.334
+it's good i think.
+
+0:17:02.340,0:17:07.638
+this is like our concept in the beginning, but we add another features like farmers.
+
+0:17:07.638,0:17:12.000
+so we change the system move to e-deso app.
+
+0:17:13.249,0:17:17.813
+cause it's different name, bisnis ternak but have things like farmer. It's quiet funny I think.
+
+0:17:18.480,0:17:23.018
+Overall it's good concept
+
+0:17:24.542,0:17:30.127
+So, the redesign in bisnis ternak app already suitable right.
+
+0:17:30.791,0:17:32.791
+Ya, already suitable.
+
+0:17:35.294,0:17:37.530
+Like our plans in the beginning.
+
+0:17:39.504,0:17:46.426
+We will sent this file design to you, after this
+
+0:17:48.511,0:17:50.014
+Okay okay
+
+0:18:12.712,0:18:22.353
+We get insight about livestock experience.
+
+0:18:23.432,0:18:25.432
+I think that's all.
+
+0:18:34.559,0:18:40.694
+Thank you very much for coming and available to interview.
+
+0:18:52.150,0:18:55.301
+Wait wait, take a picture before end.
+
+0:19:31.047,0:19:33.047
+Thanks again.
+
+0:20:05.475,0:20:07.475
+Assalamualaikum..
