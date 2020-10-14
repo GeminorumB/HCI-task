@@ -15,14 +15,14 @@
 
 ## Day 2 ##
 ### Design 1 ( M. Ridho Rizqillah ) ###
-| | | | | |
-|-|-|-|-|-|
+| | | 
+|-|-|
 |<img height=400 src="mockup/Design2/Home.png">|<img height=400 src="mockup/Design2/Pasar-Ternak-Overview.png">|
 
 
 ### Design 2 ( M. Hafidz Hisbullah ) ###
-| | | | | |
-|-|-|-|-|-|
+| | | 
+|-|-|
 |<img height=400 src="mockup/Home.png">|<img height=400 src="mockup/Pasar.png">|
 
 ## Day 3
@@ -41,5 +41,5 @@
 ## Day 4
 [video](https://www.youtube.com)
 
-Nama : Dadang Firmansyah
-Role : Founder of Bisnisternak.id
+- Nama : Dadang Firmansyah
+- Role : Founder of Bisnisternak.id

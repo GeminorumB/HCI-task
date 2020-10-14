@@ -36,3 +36,7 @@ konsultasi ternak adalah fungsi bagi peternak untuk berkomunikasi dan bertanya p
 ## Activity Diagram ##
 
 <img src="Diagrams/activity_diagram.png">
+
+## Key Buisness Process ##
+
+- Key buisness process pada app ini terletak pada pasar ternak dan kelas peternak.
