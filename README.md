@@ -6,7 +6,11 @@
   2. Muhammad Hafiz Hisbullah (1313619019)
   3. Muhammad Ridho Rizqillah (1313619033)
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> 70683e5c23cc4ecc23ecdbbfb6d4a0bc7549e857
 ## **TASK 1 REPORT** : [Task 1 Report](https://github.com/GeminorumB/HCI-task/tree/hw2/assignment1)
 - Anaysis of application Design
 - Presenting the Use case and activity Diagram
