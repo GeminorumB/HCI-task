@@ -9,10 +9,11 @@ Berikut kekurangan yang kami temukan di UI app bisnisternak.id:
 - [x] Overall UI terlihat terlalu penuh dan tidak efektif
 
 ## Design app Bisnisternak.id ##
-<img src =>
+<img src ="Diagrams/Homepage-Ori.png">
 ## Key Use case ##
 <img src="Diagrams/key-use-case.png">
 Dalam sistem bisnisternak.id terdapat 4 fungsi penting yaitu:
+
 - kelas peternak
 - Informasi ternak
 - Pasar ternak
