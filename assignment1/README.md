@@ -2,4 +2,4 @@
 
 ## Activity Diagram ##
 
-<img width="529" height="230" src="Diagrams/activity_diagram.png">
+<img src="Diagrams/activity_diagram.png">
