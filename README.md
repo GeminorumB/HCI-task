@@ -6,7 +6,7 @@
   2. Muhammad Hafiz Hisbullah (1313619019)
   3. Muhammad Ridho Rizqillah (1313619033)
 
-*TASK 1 REPORT* : [Task 1 Repor](https://github.com/GeminorumB/HCI-task/tree/hw2/assignment1)
+*TASK 1 REPORT* : [Task 1 Report](https://github.com/GeminorumB/HCI-task/tree/hw2/assignment1)
 
 *TASK 2 REPORT* : [Task 2 Report](https://github.com/GeminorumB/HCI-task/tree/hw2/assignment2)
 
