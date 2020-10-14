@@ -29,7 +29,7 @@
 * **Muhammad Daffa Haryadi** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
 - [GeminorumB](https://github.com/GeminorumB)
 * **Muhammad Hafiz Hisbullah** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
-- [hafizchever](https://github.com/hafizchever)
+- [hafizchever](https://github.com/DragonFly378)
 * **Muhammad Ridho Rizqillah** - *Ilmu Komputer 2019 Universitas Negeri Jakarta*: 
 - [Renespeare](https://github.com/Renespeare)
 
