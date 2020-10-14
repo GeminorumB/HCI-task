@@ -15,13 +15,16 @@
 ## **TASK 2 REPORT** : [Task 2 Report](https://github.com/GeminorumB/HCI-task/tree/hw2/assignment2)
 
 ### Day 1: Discussing App design's flaw
+[Video](https://youtu.be/p8_5MEAKcIo)
 
 ### Day 2: Creating two competing mockup design
+[Report](https://github.com/GeminorumB/HCI-task/tree/hw2/assignment2)
 
 ### Day 3: Voting to choose the winning design
+[video](https://www.youtube.com/watch?v=wBA7AyuvgWM)
 
 ### Day 4: Presenting the Winning Design to developer
-
+[video](https://www.youtube.com)
 
 
 ## Contributors ###

@@ -28,6 +28,18 @@
 ## Day 3
 [video](https://www.youtube.com/watch?v=wBA7AyuvgWM)
 
+### Voters ###
+
+- Abdullah Azzam
+- Akbar Maulana
+- M. Hanif Ramadhan
+- M. Raffi Athallah M
+- Hary Susilo
+
+**Result** : 2nd Design Win (Hafiz Hisbullah's Design)
+
 ## Day 4
 [video](https://www.youtube.com)
 
+Nama : Dadang Firmansyah
+Role : Founder of Bisnisternak.id
