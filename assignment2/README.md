@@ -1,5 +1,9 @@
 # Task 2 Report
 
+Link for Our video's Subtitle :
+
+[here](https://github.com/GeminorumB/HCI-task/tree/hw2/assignment2/subs)
+
 ### **Table of Content** ###
 
 - Day 1: Discussion About Design Flaw
@@ -10,13 +14,13 @@
 
 ## Day 1 ##
 
-** 5 October 2020 **
+**5 October 2020**
 
 [Video](https://youtu.be/p8_5MEAKcIo)
 
 ## Day 2 ##
 
-** 6-8 October 2020 **
+**6-8 October 2020**
 
 ### Design 1 ( M. Ridho Rizqillah ) ###
 | | | 
@@ -31,7 +35,7 @@
 
 ## Day 3
 
-** 9 October 2020 **
+**9 October 2020**
 
 [video](https://www.youtube.com/watch?v=wBA7AyuvgWM)
 
@@ -47,7 +51,7 @@
 
 ## Day 4 ##
 
-** 10 October 2020 **
+**10 October 2020**
 
 [video](https://www.youtube.com/watch?v=PtfIsxAiJkc)
 
