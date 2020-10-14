@@ -11,9 +11,20 @@
 
 
 ## Day 1
-[Video](https://www.youtube.com/)
+[Video](https://youtu.be/p8_5MEAKcIo)
 ## Day 2
-
+### Design 1 ( M. Ridho Rizqillah ) ###
+- Home Screen
+<img src="mockup/Design2/Home.png">
+- Pasar peternak page
+<img src="mockup/Design2/Pasar-Peternak.png">
+### Design 2 ( M. Hafidz Hisbullah ) ###
+- Home Screen
+<img src="mockup/Home.png">
+- Pasar peternak page
+<img src="Pasar.png">
 ## Day 3
-
+[video](https://www.youtube.com/watch?v=wBA7AyuvgWM)
 ## Day 4
+[video](https://www.youtube.com)
+
